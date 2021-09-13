@@ -49,4 +49,4 @@ Consider learning about these dependency versions.
 
 [3]: https://github.com/marianoRiquelme/cpa-java-ssr-a-sr-2021/tree/brandon.colina
 
-[4]: https://opensource.org/licenses/MIT
+[4]: https://github.com/bcolinadgl/config-files-red-bank/blob/main/LICENSE
