@@ -1,1 +1,7 @@
-message="Este mensaje fue generado desde Github 2"
+hystrixRedBank:
+  isolationProperties:
+    isolationStrategyKey: "execution.isolation.strategy"
+    isolationStrategyValue: "SEMAPHORE"
+  IsolationThreadProperites:
+    isolationThreadKey: "execution.isolation.thread.timeoutInMilliseconds"
+    isolationThreadValue: "3000"
