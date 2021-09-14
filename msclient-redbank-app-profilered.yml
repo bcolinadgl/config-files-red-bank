@@ -1,7 +1,1 @@
-hystrixRedBank:
-  isolationProperties:
-    isolationStrategyKey: "execution.isolation.strategy"
-    isolationStrategyValue: "SEMAPHORE"
-  IsolationThreadProperites:
-    isolationThreadKey: "execution.isolation.thread.timeoutInMilliseconds"
-    isolationThreadValue: "3000"
+messageEurekaClientWelcome: "Eureka Client With Config Server And Trace Distribute Red Bank Application"
